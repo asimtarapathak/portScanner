@@ -7,7 +7,7 @@
 - Scan for both ipv4 and ipv6 address
 - Threaded scan
 - Single port, multiple port and port range scan
-- Scan using host name instead of ip address
+- Scan using both host name and of ip address
 - Little colourful in commandline also
 
 
